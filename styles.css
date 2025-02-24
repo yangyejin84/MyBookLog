@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, sans-serif; /* 전체 페이지의 폰트 스타일 지정 */
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4; /* 배경색 설정 */
+    text-align: center; /* 제목을 중앙 정렬 */
+}
+
+h1 {
+    color: #333; /* 제목의 색상 지정 */
+    text-align: left; /* 제목을 중앙 정렬 */
+}
+
+h2 {
+    color: #9905D8; /* 제목의 색상 지정 */
+    text-align: left; /* 제목을 중앙 정렬 */
+}
+h3 {
+    color: #2d0369; /* 제목의 색상 지정 */
+    text-align: left; /* 제목을 중앙 정렬 */
+}
+
+p {
+    font-size: 16px; /* 문단의 폰트 크기 지정 */
+    color: #0000CD; /* 문단의 색상 지정 */
+    line-height: 1.2; /* 문단의 줄 간격 지정 */
+    margin: 10px; /* 문단 주위 여백 지정 */
+    text-align: left; /* 제목을 중앙 정렬 */
+}
+
+a {
+    color: #000; /* 링크의 색상 지정 */
+    text-decoration: none; /* 링크의 밑줄 제거 */
+    text-align: center; /* 제목을 중앙 정렬 */
+}
+a:hover {
+    color: blue; /* 마우스 오버 시 링크 색상 변경 */
+    text-align: center; /* 제목을 중앙 정렬 */
+}
+
+ul {
+    list-style: none; /* 목록의 스타일 없애기 */
+    padding: 0;
+    text-align: left; /* 제목을 중앙 정렬 */
+}
+
+li {
+    background-color: #fff; /* 목록 항목 배경색 지정 */
+    margin-bottom: 5px; /* 목록 항목 사이의 여백 지정 */
+    padding: 5px; /* 목록 항목 내부 여백 지정 */
+    border: 1px solid #ddd; /* 목록 항목 테두리 지정 */
+    text-align: left; /* 제목을 중앙 정렬 */
+}
